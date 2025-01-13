@@ -1,3 +1,4 @@
+'use client';
 import { DateInterval } from 'lib/dashboard/hooks/use-dashboard-data';
 import { urlInterval } from '../hooks/utils';
 import { BooksReadersItem } from 'lib/api/books-readers-list';

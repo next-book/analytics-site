@@ -1,3 +1,4 @@
+'use client';
 import useBooksReadersList from 'lib/hooks/use-books-readers-list';
 import useBookListData from 'lib/dashboard/hooks/use-book-list-data';
 import List from './list';
